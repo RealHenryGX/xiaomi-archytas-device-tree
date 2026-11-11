@@ -1,0 +1,4 @@
+# Raw partition backups are intentionally kept outside this repository.
+*.img
+*.bin
+!dtb/*.dtb
